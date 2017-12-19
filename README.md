@@ -1,6 +1,7 @@
 # ML
-Contains Linear Regression, Logistic Regr and Decision Tree/RandomForest models
-a) Linear Regression:
+Contains Linear Regression, Logistic Regr and Decision Tree/RandomForest models \n
+
+a) Linear Regression: \n
     Ecommerce        - i) LinearRegrEcommerce.ipynb      ii) Ecommerce Customers (Data Set)
     Housing Data     - i) LinearRegrHousingPrice.ipynb   ii) USA_Housing.csv (Data Set)
 b) Logistic Regression:
